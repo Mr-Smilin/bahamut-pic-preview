@@ -7,9 +7,9 @@
 最後修改日期： 2024/08/20  
 作者： smilin （微笑）
 
-# [演示網址]()
+# [演示網址](https://home.gamer.com.tw/creationDetail.php?sn=5988203)
 
-[油猴]()  
+[油猴](https://greasyfork.org/zh-TW/scripts/504221-%E5%B7%B4%E5%93%88%E5%9C%96%E7%89%87%E9%A0%90%E8%A6%BD)  
 [Github](https://github.com/Mr-Smilin/bahamut-pic-preview)
 
 當前版本： 0.01  
